@@ -78,3 +78,4 @@ The authenticated account inventory contained 45 repositories, including this le
 
 - `no-proxy-lens` — Explain NO_PROXY URL matching with the exact bypass rule and reason — 2026-11-18 — https://github.com/MofidChallenge10/no-proxy-lens
 - `ssh-cert-window` — Audit OpenSSH certificate validity, principals and expiry risk — 2026-11-18 — https://github.com/MofidChallenge10/ssh-cert-window
+- `compose-profile-matrix` — Enumerate Docker Compose service sets for every profile combination — 2026-11-18 — https://github.com/MofidChallenge10/compose-profile-matrix
