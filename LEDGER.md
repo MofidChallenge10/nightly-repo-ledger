@@ -81,3 +81,4 @@ The authenticated account inventory contained 45 repositories, including this le
 - `compose-profile-matrix` — Enumerate Docker Compose service sets for every profile combination — 2026-11-18 — https://github.com/MofidChallenge10/compose-profile-matrix
 - `llama-server-preflight` — Preflight llama.cpp server health and verify the expected model — 2026-11-18 — https://github.com/MofidChallenge10/llama-server-preflight
 - `sqlite-wal-inspector` — Inspect SQLite WAL headers, frames and commit markers without checkpointing — 2026-11-18 — https://github.com/MofidChallenge10/sqlite-wal-inspector
+- `inotify-budget` — Report Linux inotify watch usage by process and user — 2026-11-18 — https://github.com/MofidChallenge10/inotify-budget
