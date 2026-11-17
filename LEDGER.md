@@ -83,3 +83,4 @@ The authenticated account inventory contained 45 repositories, including this le
 - `sqlite-wal-inspector` — Inspect SQLite WAL headers, frames and commit markers without checkpointing — 2026-11-18 — https://github.com/MofidChallenge10/sqlite-wal-inspector
 - `inotify-budget` — Report Linux inotify watch usage by process and user — 2026-11-18 — https://github.com/MofidChallenge10/inotify-budget
 - `font-origin-watch` — Inspect font URLs and origins requested by the active browser tab — 2026-11-18 — https://github.com/MofidChallenge10/font-origin-watch
+- `dbus-name-inspector` — List user and system D-Bus names with prefix filtering — 2026-11-18 — https://github.com/MofidChallenge10/dbus-name-inspector
